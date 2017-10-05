@@ -1,0 +1,6 @@
+192.168.0.1
+Client is connecting to Server at 192.168.0.1:3000...
+## PUT Request: value = foo
+## PUT Response: key = 85adfca7f88343e9b1d224fd68089d4d
+## GET Request: key = 85adfca7f88343e9b1d224fd68089d4d
+## GET Response: value = foo
